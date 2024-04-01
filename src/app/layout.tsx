@@ -22,7 +22,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <header
           style={{
-            backgroundClip: 'lightblue',
+            backgroundColor: 'lightblue',
             padding: '1rem',
           }}
         >
